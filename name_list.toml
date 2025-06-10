@@ -1,4 +1,19 @@
 [[students]]
+name = "default_name"
+SID = "default_sid"
+sex = "female"
+
+[[students]]
+name = "default_name2"
+SID = "default_sid2"
+sex = "male"
+
+[[students]]
+name = "default_name3"
+SID = "default_sid3"
+sex = "female"
+
+[[students]]
 name = "张三"
 SID = "202301010001"
 sex = "male"
