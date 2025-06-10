@@ -1,0 +1,50 @@
+[[students]]
+name = "张三"
+SID = "202301010001"
+sex = "male"
+
+[[students]]
+name = "李四"
+SID = "202301010002"
+sex = "female"
+
+[[students]]
+name = "王五"
+SID = "202301010003"
+sex = "male"
+
+[[students]]
+name = "赵六"
+SID = "202301010004"
+sex = "female"
+
+[[students]]
+name = "钱七"
+SID = "202301010005"
+sex = "male"
+
+[[students]]
+name = "孙八"
+SID = "202301010006"
+sex = "female"
+
+[[students]]
+name = "周九"
+SID = "202301010007"
+sex = "male"
+
+[[students]]
+name = "吴十"
+SID = "202301010008"
+sex = "female"
+
+[[students]]
+name = "郑十一"
+SID = "202302010001"
+sex = "male"
+
+[[students]]
+name = "王十二"
+SID = "202302010002"
+sex = "female"
+

@@ -1,0 +1,92 @@
+[
+  {
+    "adminclass_name": "计算机科学2023级1班",
+    "code": "202301010001",
+    "depart_name": "计算机学院[01]",
+    "direction_name": "软件工程",
+    "gender": "男",
+    "major_name": "计算机科学与技术",
+    "name": "张三"
+  },
+  {
+    "adminclass_name": "计算机科学2023级1班",
+    "code": "202301010002",
+    "depart_name": "计算机学院[01]",
+    "direction_name": "软件工程",
+    "gender": "女",
+    "major_name": "计算机科学与技术",
+    "name": "李四"
+  },
+  {
+    "adminclass_name": "计算机科学2023级1班",
+    "code": "202301010003",
+    "depart_name": "计算机学院[01]",
+    "direction_name": "人工智能",
+    "gender": "男",
+    "major_name": "计算机科学与技术",
+    "name": "王五"
+  },
+  {
+    "adminclass_name": "计算机科学2023级1班",
+    "code": "202301010004",
+    "depart_name": "计算机学院[01]",
+    "direction_name": "数据科学",
+    "gender": "女",
+    "major_name": "计算机科学与技术",
+    "name": "赵六"
+  },
+  {
+    "adminclass_name": "计算机科学2023级1班",
+    "code": "202301010005",
+    "depart_name": "计算机学院[01]",
+    "direction_name": "软件工程",
+    "gender": "男",
+    "major_name": "计算机科学与技术",
+    "name": "钱七"
+  },
+  {
+    "adminclass_name": "计算机科学2023级2班",
+    "code": "202301010006",
+    "depart_name": "计算机学院[01]",
+    "direction_name": "网络安全",
+    "gender": "女",
+    "major_name": "计算机科学与技术",
+    "name": "孙八"
+  },
+  {
+    "adminclass_name": "计算机科学2023级2班",
+    "code": "202301010007",
+    "depart_name": "计算机学院[01]",
+    "direction_name": "人工智能",
+    "gender": "男",
+    "major_name": "计算机科学与技术",
+    "name": "周九"
+  },
+  {
+    "adminclass_name": "计算机科学2023级2班",
+    "code": "202301010008",
+    "depart_name": "计算机学院[01]",
+    "direction_name": "数据科学",
+    "gender": "女",
+    "major_name": "计算机科学与技术",
+    "name": "吴十"
+  },
+  {
+    "adminclass_name": "数学与应用数学2023级1班",
+    "code": "202302010001",
+    "depart_name": "数学学院[02]",
+    "direction_name": "应用数学",
+    "gender": "男",
+    "major_name": "数学与应用数学",
+    "name": "郑十一"
+  },
+  {
+    "adminclass_name": "数学与应用数学2023级1班",
+    "code": "202302010002",
+    "depart_name": "数学学院[02]",
+    "direction_name": "统计学",
+    "gender": "女",
+    "major_name": "数学与应用数学",
+    "name": "王十二"
+  }
+]
